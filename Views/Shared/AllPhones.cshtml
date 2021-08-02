@@ -1,0 +1,23 @@
+﻿@model Phone
+<head>
+
+    <link href="~/css/AllPhones.css" rel="stylesheet" />
+</head>
+
+<div class="col-lg-4 ">
+    <div class="compItem div" id="@Model.Id">
+        <img class="img-thumbnail" src="@Model.Img" alt="@Model.Name" />
+        <p class="h2"> @Model.Name</p>
+        <p>@Model.ShortDesc</p>
+        <p> Цена:@Model.Price.ToString("c")</p>
+        <p><a class="custom-btn btn-15" asp-controller="ShopCart" asp-action="AddToCart" asp-route-ID="@Model.Id">To  Cart</a></p>
+        <a class="btn btn-danger" asp-controller="Admin" asp-action="RemoveFromStore" asp-route-ID="@Model.Id"> Remove  </a>
+
+
+    </div>
+    <a class="btn btn-danger" href ="/Admin/AddToStore">AddPhone</a>
+</div>
+@section scripts
+{
+
+}

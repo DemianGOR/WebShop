@@ -1,0 +1,44 @@
+﻿@model WebShop.Data.Models.Phone
+
+<h3> Добавление товара</h3>
+<div class="row">
+
+
+    <br />
+    <form asp-action="AddToStore" asp-controller="Admin" method="post" class="form-horizontal">
+        <div>
+            <label asp-for="Name">Введите Name</label><br />
+            <input type="text" asp-for="Name" />
+            <span asp-validation-for="Name" />
+        </div>
+        <div>
+            <label asp-for="ShortDesc">Введите ShortDesc</label><br />
+            <input asp-for="ShortDesc" />
+            <span asp-validation-for="ShortDesc" />
+        </div>
+
+        <div>
+            <label asp-for="Price">Введите Price</label><br />
+            <input asp-for="Price" />
+            <span asp-validation-for="Price" />
+        </div>
+        <div>
+            <label asp-for="IsFavourite">Введите IsFavourite</label><br />
+            <input asp-for="IsFavourite" />
+            <span asp-validation-for="IsFavourite" />
+        </div>
+
+        <div>
+            <label asp-for="Available">Введите Available</label><br />
+            <input asp-for="Available" />
+            <span asp-validation-for="Available" />
+        </div>
+        <div>
+            <label asp-for="Category.CategoryName">Введите Category</label><br />
+            <input asp-for="Category.CategoryName" />
+            <span asp-validation-for="Category.CategoryName" />
+        </div>
+
+        <input class="btn btn-success" type="submit" value="Твоя мать шлюха" />
+    </form>
+</div>

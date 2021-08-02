@@ -1,0 +1,63 @@
+﻿.div {
+    border: 1px solid black;
+    color: black;
+    height: 570px;
+    margin: 0.1cm;
+    padding: 12px;
+    background: rgba(205, 214, 219, 0.3);
+    border-radius: 12px;
+    box-shadow: 0 0 15px rgba(0,0,0,0.5);
+}
+    .div:hover {
+        border: 3px solid black;
+        box-shadow: 0 0 20px rgba(0,0,0,0.5)
+    }
+.modal {
+    border: 1px solid black;
+    color: black;
+    background: rgb(205, 214, 219);
+    border-radius: 12px;
+    box-shadow: 0 0 15px rgba(0,0,0,1);
+}
+h3 {
+    font-size: 20px;
+}
+.h2 {
+    font-size: 30px;
+    color: black;
+}
+#r{
+    border: 0px;
+}
+.btn-15 {
+    background: #b621fe;
+    border: none;
+    z-index: 1;
+}
+
+    .btn-15:after {
+        position: absolute;
+        content: "";
+        width: 0;
+        height: 100%;
+        top: 0;
+        right: 0;
+        z-index: -1;
+        background-color: #663dff;
+        border-radius: 5px;
+        box-shadow: inset 2px 2px 2px 0px rgba(255,255,255,.5), 7px 7px 20px 0px rgba(0,0,0,.1), 4px 4px 5px 0px rgba(0,0,0,.1);
+        transition: all 0.3s ease;
+    }
+
+    .btn-15:hover {
+        color: #fff;
+    }
+
+        .btn-15:hover:after {
+            left: 0;
+            width: 100%;
+        }
+
+    .btn-15:active {
+        top: 2px;
+    }

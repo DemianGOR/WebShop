@@ -1,0 +1,65 @@
+﻿<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>@ViewBag.Title</title>
+    <link href="~/css/bootstrap.min.css" rel="stylesheet" />
+    <link href="~/css/bootstrap.min.css" rel="stylesheet" />
+    <link href="~/css/StyleSheet.css" rel="stylesheet" />
+    <link href="~/css/Login_Button.css" rel="stylesheet" />
+</head>
+<body>
+    <header>
+        <nav class="navbar navbar-expand-md navbar-dark bg-dark">
+            <a class="navbar-brand" href="#">Phone Shop</a>
+            <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarCollapse" aria-controls="navbarCollapse" aria-expanded="false" aria-label="Toggle navigation">
+                <span class="navbar-toggler-icon"></span>
+            </button>
+            <div class="collapse navbar-collapse" id="navbarCollapse">
+                <ul class="navbar-nav mr-auto">
+                    <li class="nav-item active">
+                        <a class="nav-link" asp-controller="Home" asp-action="Index">Main page <span class="sr-only">(current)</span></a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link" href="/Phones/List">All Phones</a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link" href="/Phones/List/iphone">Iphone</a>
+                    </li>
+
+                    <li class="nav-item">
+                        <a class="nav-link" href="/Phones/List/meizu">meizu</a>
+                    </li>
+
+                    <li class="nav-item">
+                        <a class="nav-link" href="/ShopCart/" tabindex="-1" aria-disabled="true">Cart</a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link" href="/Account/Login" tabindex="-1" aria-disabled="true">Login</a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link" href="/Account/Register" tabindex="-1" aria-disabled="true">Register</a>
+                    </li>
+
+
+                </ul>
+                <form class="form-inline mt-2 mt-md-0">
+                    
+
+                        <p><a class="custom-btn btn-15" href="/Account/Login">Login</a></p>
+                   
+                </form>
+            </div>
+        </nav>
+    </header>
+    <div class="container mt-5">
+        @RenderBody()
+    </div>
+    <footer class="container">
+        <p class="float-right"><a href="#">Back to top</a></p>
+        <p>©2020 Ilya Project · <a href="#"> some text00</a></p>
+    </footer>
+    <script src="~/js/bootstrap.min.js"></script>
+</body>
+</html>

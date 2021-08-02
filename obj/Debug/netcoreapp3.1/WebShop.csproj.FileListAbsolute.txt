@@ -1,0 +1,518 @@
+C:\Users\volos\source\repos\WebShop\WebShop\obj\Debug\netcoreapp3.1\WebShop.csprojAssemblyReference.cache
+C:\Users\volos\source\repos\WebShop\WebShop\obj\Debug\netcoreapp3.1\WebShop.AssemblyInfoInputs.cache
+C:\Users\volos\source\repos\WebShop\WebShop\obj\Debug\netcoreapp3.1\WebShop.AssemblyInfo.cs
+C:\Users\volos\source\repos\WebShop\WebShop\obj\Debug\netcoreapp3.1\WebShop.csproj.CoreCompileInputs.cache
+C:\Users\volos\source\repos\WebShop\WebShop\obj\Debug\netcoreapp3.1\WebShop.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\volos\source\repos\WebShop\WebShop\obj\Debug\netcoreapp3.1\WebShop.RazorAssemblyInfo.cache
+C:\Users\volos\source\repos\WebShop\WebShop\obj\Debug\netcoreapp3.1\WebShop.RazorAssemblyInfo.cs
+C:\Users\volos\source\repos\WebShop\WebShop\obj\Debug\netcoreapp3.1\staticwebassets\WebShop.StaticWebAssets.Manifest.cache
+C:\Users\volos\source\repos\WebShop\WebShop\obj\Debug\netcoreapp3.1\staticwebassets\WebShop.StaticWebAssets.xml
+C:\Users\volos\source\repos\WebShop\WebShop\obj\Debug\netcoreapp3.1\scopedcss\bundle\WebShop.styles.css
+C:\Users\volos\source\repos\WebShop\WebShop\obj\Debug\netcoreapp3.1\WebShop.TagHelpers.input.cache
+C:\Users\volos\source\repos\WebShop\WebShop\obj\Debug\netcoreapp3.1\WebShop.TagHelpers.output.cache
+C:\Users\volos\source\repos\WebShop\WebShop\obj\Debug\netcoreapp3.1\WebShop.RazorCoreGenerate.cache
+C:\Users\volos\source\repos\WebShop\WebShop\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\volos\source\repos\WebShop\WebShop\obj\Debug\netcoreapp3.1\Razor\Views\Order\Checkout.cshtml.g.cs
+C:\Users\volos\source\repos\WebShop\WebShop\obj\Debug\netcoreapp3.1\Razor\Views\Order\Complete.cshtml.g.cs
+C:\Users\volos\source\repos\WebShop\WebShop\obj\Debug\netcoreapp3.1\Razor\Views\Phones\List.cshtml.g.cs
+C:\Users\volos\source\repos\WebShop\WebShop\obj\Debug\netcoreapp3.1\Razor\Views\Shared\AllPhones.cshtml.g.cs
+C:\Users\volos\source\repos\WebShop\WebShop\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\volos\source\repos\WebShop\WebShop\obj\Debug\netcoreapp3.1\Razor\Views\ShopCart\Index.cshtml.g.cs
+C:\Users\volos\source\repos\WebShop\WebShop\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\volos\source\repos\WebShop\WebShop\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\volos\source\repos\WebShop\WebShop\obj\Debug\netcoreapp3.1\WebShop.RazorTargetAssemblyInfo.cache
+C:\Users\volos\source\repos\WebShop\WebShop\obj\Debug\netcoreapp3.1\WebShop.RazorTargetAssemblyInfo.cs
+C:\Users\volos\source\repos\WebShop\WebShop\obj\Debug\netcoreapp3.1\WebShop.dll
+C:\Users\volos\source\repos\WebShop\WebShop\obj\Debug\netcoreapp3.1\WebShop.pdb
+C:\Users\volos\source\repos\WebShop\WebShop\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\volos\source\repos\WebShop\WebShop\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\volos\source\repos\WebShop\WebShop\bin\Debug\netcoreapp3.1\dbsettings.json
+C:\Users\volos\source\repos\WebShop\WebShop\bin\Debug\netcoreapp3.1\libman.json
+C:\Users\volos\source\repos\WebShop\WebShop\bin\Debug\netcoreapp3.1\WebShop.exe
+C:\Users\volos\source\repos\WebShop\WebShop\bin\Debug\netcoreapp3.1\WebShop.deps.json
+C:\Users\volos\source\repos\WebShop\WebShop\bin\Debug\netcoreapp3.1\WebShop.runtimeconfig.json
+C:\Users\volos\source\repos\WebShop\WebShop\bin\Debug\netcoreapp3.1\WebShop.runtimeconfig.dev.json
+C:\Users\volos\source\repos\WebShop\WebShop\bin\Debug\netcoreapp3.1\WebShop.dll
+C:\Users\volos\source\repos\WebShop\WebShop\bin\Debug\netcoreapp3.1\WebShop.pdb
+C:\Users\volos\source\repos\WebShop\WebShop\bin\Debug\netcoreapp3.1\WebShop.Views.dll
+C:\Users\volos\source\repos\WebShop\WebShop\bin\Debug\netcoreapp3.1\WebShop.Views.pdb
+C:\Users\volos\source\repos\WebShop\WebShop\bin\Debug\netcoreapp3.1\Humanizer.dll
+C:\Users\volos\source\repos\WebShop\WebShop\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\volos\source\repos\WebShop\WebShop\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\volos\source\repos\WebShop\WebShop\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\volos\source\repos\WebShop\WebShop\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\volos\source\repos\WebShop\WebShop\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\volos\source\repos\WebShop\WebShop\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\volos\source\repos\WebShop\WebShop\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\volos\source\repos\WebShop\WebShop\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\volos\source\repos\WebShop\WebShop\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\volos\source\repos\WebShop\WebShop\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\volos\source\repos\WebShop\WebShop\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\volos\source\repos\WebShop\WebShop\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\volos\source\repos\WebShop\WebShop\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\volos\source\repos\WebShop\WebShop\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\volos\source\repos\WebShop\WebShop\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\volos\source\repos\WebShop\WebShop\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Users\volos\source\repos\WebShop\WebShop\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\volos\source\repos\WebShop\WebShop\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Users\volos\source\repos\WebShop\WebShop\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\Users\volos\source\repos\WebShop\WebShop\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\volos\source\repos\WebShop\WebShop\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Users\volos\source\repos\WebShop\WebShop\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\volos\source\repos\WebShop\WebShop\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\Users\volos\source\repos\WebShop\WebShop\bin\Debug\netcoreapp3.1\System.ComponentModel.Annotations.dll
+C:\Users\volos\source\repos\WebShop\WebShop\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\volos\source\repos\WebShop\WebShop\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Users\volos\source\repos\WebShop\WebShop\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\volos\source\repos\WebShop\WebShop\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Users\volos\source\repos\WebShop\WebShop\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\volos\source\repos\WebShop\WebShop\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\volos\source\repos\WebShop\WebShop\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\volos\source\repos\WebShop\WebShop\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\volos\source\repos\WebShop\WebShop\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\volos\source\repos\WebShop\WebShop\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\volos\source\repos\WebShop\WebShop\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\volos\source\repos\WebShop\WebShop\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\volos\source\repos\WebShop\WebShop\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\volos\source\repos\WebShop\WebShop\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\volos\source\repos\WebShop\WebShop\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\volos\source\repos\WebShop\WebShop\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\volos\source\repos\WebShop\WebShop\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\volos\source\repos\WebShop\WebShop\obj\Debug\netcoreapp3.1\WebShop.Views.pdb
+C:\Users\volos\source\repos\WebShop\WebShop\obj\Debug\netcoreapp3.1\WebShop.csproj.CopyComplete
+C:\Users\volos\source\repos\WebShop\WebShop\obj\Debug\netcoreapp3.1\WebShop.genruntimeconfig.cache
+C:\Users\ivanc\OneDrive\Рабочий стол\slave\WebShop\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\ivanc\OneDrive\Рабочий стол\slave\WebShop\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\ivanc\OneDrive\Рабочий стол\slave\WebShop\bin\Debug\netcoreapp3.1\dbsettings.json
+C:\Users\ivanc\OneDrive\Рабочий стол\slave\WebShop\bin\Debug\netcoreapp3.1\libman.json
+C:\Users\ivanc\OneDrive\Рабочий стол\slave\WebShop\bin\Debug\netcoreapp3.1\WebShop.exe
+C:\Users\ivanc\OneDrive\Рабочий стол\slave\WebShop\bin\Debug\netcoreapp3.1\WebShop.deps.json
+C:\Users\ivanc\OneDrive\Рабочий стол\slave\WebShop\bin\Debug\netcoreapp3.1\WebShop.runtimeconfig.json
+C:\Users\ivanc\OneDrive\Рабочий стол\slave\WebShop\bin\Debug\netcoreapp3.1\WebShop.runtimeconfig.dev.json
+C:\Users\ivanc\OneDrive\Рабочий стол\slave\WebShop\bin\Debug\netcoreapp3.1\WebShop.dll
+C:\Users\ivanc\OneDrive\Рабочий стол\slave\WebShop\bin\Debug\netcoreapp3.1\WebShop.pdb
+C:\Users\ivanc\OneDrive\Рабочий стол\slave\WebShop\bin\Debug\netcoreapp3.1\WebShop.Views.dll
+C:\Users\ivanc\OneDrive\Рабочий стол\slave\WebShop\bin\Debug\netcoreapp3.1\WebShop.Views.pdb
+C:\Users\ivanc\OneDrive\Рабочий стол\slave\WebShop\bin\Debug\netcoreapp3.1\Humanizer.dll
+C:\Users\ivanc\OneDrive\Рабочий стол\slave\WebShop\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\ivanc\OneDrive\Рабочий стол\slave\WebShop\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\ivanc\OneDrive\Рабочий стол\slave\WebShop\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\ivanc\OneDrive\Рабочий стол\slave\WebShop\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\ivanc\OneDrive\Рабочий стол\slave\WebShop\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\ivanc\OneDrive\Рабочий стол\slave\WebShop\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\ivanc\OneDrive\Рабочий стол\slave\WebShop\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\ivanc\OneDrive\Рабочий стол\slave\WebShop\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\ivanc\OneDrive\Рабочий стол\slave\WebShop\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\ivanc\OneDrive\Рабочий стол\slave\WebShop\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\ivanc\OneDrive\Рабочий стол\slave\WebShop\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\ivanc\OneDrive\Рабочий стол\slave\WebShop\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\ivanc\OneDrive\Рабочий стол\slave\WebShop\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\ivanc\OneDrive\Рабочий стол\slave\WebShop\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\ivanc\OneDrive\Рабочий стол\slave\WebShop\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\ivanc\OneDrive\Рабочий стол\slave\WebShop\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Users\ivanc\OneDrive\Рабочий стол\slave\WebShop\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\ivanc\OneDrive\Рабочий стол\slave\WebShop\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Users\ivanc\OneDrive\Рабочий стол\slave\WebShop\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\Users\ivanc\OneDrive\Рабочий стол\slave\WebShop\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\ivanc\OneDrive\Рабочий стол\slave\WebShop\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Users\ivanc\OneDrive\Рабочий стол\slave\WebShop\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\ivanc\OneDrive\Рабочий стол\slave\WebShop\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\Users\ivanc\OneDrive\Рабочий стол\slave\WebShop\bin\Debug\netcoreapp3.1\System.ComponentModel.Annotations.dll
+C:\Users\ivanc\OneDrive\Рабочий стол\slave\WebShop\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\ivanc\OneDrive\Рабочий стол\slave\WebShop\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Users\ivanc\OneDrive\Рабочий стол\slave\WebShop\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\ivanc\OneDrive\Рабочий стол\slave\WebShop\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Users\ivanc\OneDrive\Рабочий стол\slave\WebShop\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\ivanc\OneDrive\Рабочий стол\slave\WebShop\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\ivanc\OneDrive\Рабочий стол\slave\WebShop\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\ivanc\OneDrive\Рабочий стол\slave\WebShop\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\ivanc\OneDrive\Рабочий стол\slave\WebShop\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\ivanc\OneDrive\Рабочий стол\slave\WebShop\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\ivanc\OneDrive\Рабочий стол\slave\WebShop\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\ivanc\OneDrive\Рабочий стол\slave\WebShop\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\ivanc\OneDrive\Рабочий стол\slave\WebShop\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\ivanc\OneDrive\Рабочий стол\slave\WebShop\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\ivanc\OneDrive\Рабочий стол\slave\WebShop\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\ivanc\OneDrive\Рабочий стол\slave\WebShop\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\ivanc\OneDrive\Рабочий стол\slave\WebShop\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\ivanc\OneDrive\Рабочий стол\slave\WebShop\obj\Debug\netcoreapp3.1\WebShop.csprojAssemblyReference.cache
+C:\Users\ivanc\OneDrive\Рабочий стол\slave\WebShop\obj\Debug\netcoreapp3.1\WebShop.AssemblyInfoInputs.cache
+C:\Users\ivanc\OneDrive\Рабочий стол\slave\WebShop\obj\Debug\netcoreapp3.1\WebShop.AssemblyInfo.cs
+C:\Users\ivanc\OneDrive\Рабочий стол\slave\WebShop\obj\Debug\netcoreapp3.1\WebShop.csproj.CoreCompileInputs.cache
+C:\Users\ivanc\OneDrive\Рабочий стол\slave\WebShop\obj\Debug\netcoreapp3.1\WebShop.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\ivanc\OneDrive\Рабочий стол\slave\WebShop\obj\Debug\netcoreapp3.1\WebShop.RazorAssemblyInfo.cache
+C:\Users\ivanc\OneDrive\Рабочий стол\slave\WebShop\obj\Debug\netcoreapp3.1\WebShop.RazorAssemblyInfo.cs
+C:\Users\ivanc\OneDrive\Рабочий стол\slave\WebShop\obj\Debug\netcoreapp3.1\staticwebassets\WebShop.StaticWebAssets.Manifest.cache
+C:\Users\ivanc\OneDrive\Рабочий стол\slave\WebShop\obj\Debug\netcoreapp3.1\staticwebassets\WebShop.StaticWebAssets.xml
+C:\Users\ivanc\OneDrive\Рабочий стол\slave\WebShop\obj\Debug\netcoreapp3.1\scopedcss\bundle\WebShop.styles.css
+C:\Users\ivanc\OneDrive\Рабочий стол\slave\WebShop\obj\Debug\netcoreapp3.1\WebShop.TagHelpers.input.cache
+C:\Users\ivanc\OneDrive\Рабочий стол\slave\WebShop\obj\Debug\netcoreapp3.1\WebShop.TagHelpers.output.cache
+C:\Users\ivanc\OneDrive\Рабочий стол\slave\WebShop\obj\Debug\netcoreapp3.1\WebShop.RazorCoreGenerate.cache
+C:\Users\ivanc\OneDrive\Рабочий стол\slave\WebShop\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\ivanc\OneDrive\Рабочий стол\slave\WebShop\obj\Debug\netcoreapp3.1\Razor\Views\Order\Checkout.cshtml.g.cs
+C:\Users\ivanc\OneDrive\Рабочий стол\slave\WebShop\obj\Debug\netcoreapp3.1\Razor\Views\Order\Complete.cshtml.g.cs
+C:\Users\ivanc\OneDrive\Рабочий стол\slave\WebShop\obj\Debug\netcoreapp3.1\Razor\Views\Phones\List.cshtml.g.cs
+C:\Users\ivanc\OneDrive\Рабочий стол\slave\WebShop\obj\Debug\netcoreapp3.1\Razor\Views\Shared\AllPhones.cshtml.g.cs
+C:\Users\ivanc\OneDrive\Рабочий стол\slave\WebShop\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\ivanc\OneDrive\Рабочий стол\slave\WebShop\obj\Debug\netcoreapp3.1\Razor\Views\ShopCart\Index.cshtml.g.cs
+C:\Users\ivanc\OneDrive\Рабочий стол\slave\WebShop\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\ivanc\OneDrive\Рабочий стол\slave\WebShop\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\ivanc\OneDrive\Рабочий стол\slave\WebShop\obj\Debug\netcoreapp3.1\WebShop.RazorTargetAssemblyInfo.cache
+C:\Users\ivanc\OneDrive\Рабочий стол\slave\WebShop\obj\Debug\netcoreapp3.1\WebShop.RazorTargetAssemblyInfo.cs
+C:\Users\ivanc\OneDrive\Рабочий стол\slave\WebShop\obj\Debug\netcoreapp3.1\WebShop.Views.pdb
+C:\Users\ivanc\OneDrive\Рабочий стол\slave\WebShop\obj\Debug\netcoreapp3.1\WebShop.csproj.CopyComplete
+C:\Users\ivanc\OneDrive\Рабочий стол\slave\WebShop\obj\Debug\netcoreapp3.1\WebShop.dll
+C:\Users\ivanc\OneDrive\Рабочий стол\slave\WebShop\obj\Debug\netcoreapp3.1\WebShop.pdb
+C:\Users\ivanc\OneDrive\Рабочий стол\slave\WebShop\obj\Debug\netcoreapp3.1\WebShop.genruntimeconfig.cache
+C:\Users\volos\Desktop\Новая папка\WebShop\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\volos\Desktop\Новая папка\WebShop\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\volos\Desktop\Новая папка\WebShop\bin\Debug\netcoreapp3.1\dbsettings.json
+C:\Users\volos\Desktop\Новая папка\WebShop\bin\Debug\netcoreapp3.1\libman.json
+C:\Users\volos\Desktop\Новая папка\WebShop\bin\Debug\netcoreapp3.1\WebShop.exe
+C:\Users\volos\Desktop\Новая папка\WebShop\bin\Debug\netcoreapp3.1\WebShop.deps.json
+C:\Users\volos\Desktop\Новая папка\WebShop\bin\Debug\netcoreapp3.1\WebShop.runtimeconfig.json
+C:\Users\volos\Desktop\Новая папка\WebShop\bin\Debug\netcoreapp3.1\WebShop.runtimeconfig.dev.json
+C:\Users\volos\Desktop\Новая папка\WebShop\bin\Debug\netcoreapp3.1\WebShop.dll
+C:\Users\volos\Desktop\Новая папка\WebShop\bin\Debug\netcoreapp3.1\WebShop.pdb
+C:\Users\volos\Desktop\Новая папка\WebShop\bin\Debug\netcoreapp3.1\WebShop.Views.dll
+C:\Users\volos\Desktop\Новая папка\WebShop\bin\Debug\netcoreapp3.1\WebShop.Views.pdb
+C:\Users\volos\Desktop\Новая папка\WebShop\bin\Debug\netcoreapp3.1\Humanizer.dll
+C:\Users\volos\Desktop\Новая папка\WebShop\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\volos\Desktop\Новая папка\WebShop\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\volos\Desktop\Новая папка\WebShop\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\volos\Desktop\Новая папка\WebShop\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\volos\Desktop\Новая папка\WebShop\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\volos\Desktop\Новая папка\WebShop\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\volos\Desktop\Новая папка\WebShop\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\volos\Desktop\Новая папка\WebShop\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\volos\Desktop\Новая папка\WebShop\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\volos\Desktop\Новая папка\WebShop\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\volos\Desktop\Новая папка\WebShop\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\volos\Desktop\Новая папка\WebShop\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\volos\Desktop\Новая папка\WebShop\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\volos\Desktop\Новая папка\WebShop\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\volos\Desktop\Новая папка\WebShop\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\volos\Desktop\Новая папка\WebShop\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Users\volos\Desktop\Новая папка\WebShop\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\volos\Desktop\Новая папка\WebShop\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Users\volos\Desktop\Новая папка\WebShop\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\Users\volos\Desktop\Новая папка\WebShop\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\volos\Desktop\Новая папка\WebShop\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Users\volos\Desktop\Новая папка\WebShop\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\volos\Desktop\Новая папка\WebShop\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\Users\volos\Desktop\Новая папка\WebShop\bin\Debug\netcoreapp3.1\System.ComponentModel.Annotations.dll
+C:\Users\volos\Desktop\Новая папка\WebShop\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\volos\Desktop\Новая папка\WebShop\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Users\volos\Desktop\Новая папка\WebShop\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\volos\Desktop\Новая папка\WebShop\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Users\volos\Desktop\Новая папка\WebShop\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\volos\Desktop\Новая папка\WebShop\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\volos\Desktop\Новая папка\WebShop\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\volos\Desktop\Новая папка\WebShop\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\volos\Desktop\Новая папка\WebShop\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\volos\Desktop\Новая папка\WebShop\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\volos\Desktop\Новая папка\WebShop\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\volos\Desktop\Новая папка\WebShop\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\volos\Desktop\Новая папка\WebShop\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\volos\Desktop\Новая папка\WebShop\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\volos\Desktop\Новая папка\WebShop\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\volos\Desktop\Новая папка\WebShop\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\volos\Desktop\Новая папка\WebShop\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\volos\Desktop\Новая папка\WebShop\obj\Debug\netcoreapp3.1\WebShop.csprojAssemblyReference.cache
+C:\Users\volos\Desktop\Новая папка\WebShop\obj\Debug\netcoreapp3.1\WebShop.AssemblyInfoInputs.cache
+C:\Users\volos\Desktop\Новая папка\WebShop\obj\Debug\netcoreapp3.1\WebShop.AssemblyInfo.cs
+C:\Users\volos\Desktop\Новая папка\WebShop\obj\Debug\netcoreapp3.1\WebShop.csproj.CoreCompileInputs.cache
+C:\Users\volos\Desktop\Новая папка\WebShop\obj\Debug\netcoreapp3.1\WebShop.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\volos\Desktop\Новая папка\WebShop\obj\Debug\netcoreapp3.1\WebShop.RazorAssemblyInfo.cache
+C:\Users\volos\Desktop\Новая папка\WebShop\obj\Debug\netcoreapp3.1\WebShop.RazorAssemblyInfo.cs
+C:\Users\volos\Desktop\Новая папка\WebShop\obj\Debug\netcoreapp3.1\staticwebassets\WebShop.StaticWebAssets.Manifest.cache
+C:\Users\volos\Desktop\Новая папка\WebShop\obj\Debug\netcoreapp3.1\staticwebassets\WebShop.StaticWebAssets.xml
+C:\Users\volos\Desktop\Новая папка\WebShop\obj\Debug\netcoreapp3.1\scopedcss\bundle\WebShop.styles.css
+C:\Users\volos\Desktop\Новая папка\WebShop\obj\Debug\netcoreapp3.1\WebShop.TagHelpers.input.cache
+C:\Users\volos\Desktop\Новая папка\WebShop\obj\Debug\netcoreapp3.1\WebShop.TagHelpers.output.cache
+C:\Users\volos\Desktop\Новая папка\WebShop\obj\Debug\netcoreapp3.1\WebShop.RazorCoreGenerate.cache
+C:\Users\volos\Desktop\Новая папка\WebShop\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\volos\Desktop\Новая папка\WebShop\obj\Debug\netcoreapp3.1\Razor\Views\Order\Checkout.cshtml.g.cs
+C:\Users\volos\Desktop\Новая папка\WebShop\obj\Debug\netcoreapp3.1\Razor\Views\Order\Complete.cshtml.g.cs
+C:\Users\volos\Desktop\Новая папка\WebShop\obj\Debug\netcoreapp3.1\Razor\Views\Phones\List.cshtml.g.cs
+C:\Users\volos\Desktop\Новая папка\WebShop\obj\Debug\netcoreapp3.1\Razor\Views\Shared\AllPhones.cshtml.g.cs
+C:\Users\volos\Desktop\Новая папка\WebShop\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\volos\Desktop\Новая папка\WebShop\obj\Debug\netcoreapp3.1\Razor\Views\ShopCart\Index.cshtml.g.cs
+C:\Users\volos\Desktop\Новая папка\WebShop\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\volos\Desktop\Новая папка\WebShop\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\volos\Desktop\Новая папка\WebShop\obj\Debug\netcoreapp3.1\WebShop.RazorTargetAssemblyInfo.cache
+C:\Users\volos\Desktop\Новая папка\WebShop\obj\Debug\netcoreapp3.1\WebShop.RazorTargetAssemblyInfo.cs
+C:\Users\volos\Desktop\Новая папка\WebShop\obj\Debug\netcoreapp3.1\WebShop.Views.pdb
+C:\Users\volos\Desktop\Новая папка\WebShop\obj\Debug\netcoreapp3.1\WebShop.csproj.CopyComplete
+C:\Users\volos\Desktop\Новая папка\WebShop\obj\Debug\netcoreapp3.1\WebShop.dll
+C:\Users\volos\Desktop\Новая папка\WebShop\obj\Debug\netcoreapp3.1\WebShop.pdb
+C:\Users\volos\Desktop\Новая папка\WebShop\obj\Debug\netcoreapp3.1\WebShop.genruntimeconfig.cache
+C:\Users\Данжен мэйстер\Desktop\хуйня Ильи\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\Данжен мэйстер\Desktop\хуйня Ильи\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\Данжен мэйстер\Desktop\хуйня Ильи\bin\Debug\netcoreapp3.1\dbsettings.json
+C:\Users\Данжен мэйстер\Desktop\хуйня Ильи\bin\Debug\netcoreapp3.1\libman.json
+C:\Users\Данжен мэйстер\Desktop\хуйня Ильи\bin\Debug\netcoreapp3.1\WebShop.exe
+C:\Users\Данжен мэйстер\Desktop\хуйня Ильи\bin\Debug\netcoreapp3.1\WebShop.deps.json
+C:\Users\Данжен мэйстер\Desktop\хуйня Ильи\bin\Debug\netcoreapp3.1\WebShop.runtimeconfig.json
+C:\Users\Данжен мэйстер\Desktop\хуйня Ильи\bin\Debug\netcoreapp3.1\WebShop.runtimeconfig.dev.json
+C:\Users\Данжен мэйстер\Desktop\хуйня Ильи\bin\Debug\netcoreapp3.1\WebShop.dll
+C:\Users\Данжен мэйстер\Desktop\хуйня Ильи\bin\Debug\netcoreapp3.1\WebShop.pdb
+C:\Users\Данжен мэйстер\Desktop\хуйня Ильи\bin\Debug\netcoreapp3.1\WebShop.Views.dll
+C:\Users\Данжен мэйстер\Desktop\хуйня Ильи\bin\Debug\netcoreapp3.1\WebShop.Views.pdb
+C:\Users\Данжен мэйстер\Desktop\хуйня Ильи\bin\Debug\netcoreapp3.1\Humanizer.dll
+C:\Users\Данжен мэйстер\Desktop\хуйня Ильи\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Данжен мэйстер\Desktop\хуйня Ильи\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\Данжен мэйстер\Desktop\хуйня Ильи\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Данжен мэйстер\Desktop\хуйня Ильи\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Данжен мэйстер\Desktop\хуйня Ильи\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Данжен мэйстер\Desktop\хуйня Ильи\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Данжен мэйстер\Desktop\хуйня Ильи\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\Данжен мэйстер\Desktop\хуйня Ильи\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Данжен мэйстер\Desktop\хуйня Ильи\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Данжен мэйстер\Desktop\хуйня Ильи\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Данжен мэйстер\Desktop\хуйня Ильи\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Данжен мэйстер\Desktop\хуйня Ильи\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\Данжен мэйстер\Desktop\хуйня Ильи\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Данжен мэйстер\Desktop\хуйня Ильи\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\Данжен мэйстер\Desktop\хуйня Ильи\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\Данжен мэйстер\Desktop\хуйня Ильи\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Users\Данжен мэйстер\Desktop\хуйня Ильи\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Данжен мэйстер\Desktop\хуйня Ильи\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Users\Данжен мэйстер\Desktop\хуйня Ильи\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Данжен мэйстер\Desktop\хуйня Ильи\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Данжен мэйстер\Desktop\хуйня Ильи\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Данжен мэйстер\Desktop\хуйня Ильи\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\Данжен мэйстер\Desktop\хуйня Ильи\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\Users\Данжен мэйстер\Desktop\хуйня Ильи\bin\Debug\netcoreapp3.1\System.ComponentModel.Annotations.dll
+C:\Users\Данжен мэйстер\Desktop\хуйня Ильи\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\Данжен мэйстер\Desktop\хуйня Ильи\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Данжен мэйстер\Desktop\хуйня Ильи\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Данжен мэйстер\Desktop\хуйня Ильи\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Users\Данжен мэйстер\Desktop\хуйня Ильи\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Данжен мэйстер\Desktop\хуйня Ильи\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Данжен мэйстер\Desktop\хуйня Ильи\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Данжен мэйстер\Desktop\хуйня Ильи\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Данжен мэйстер\Desktop\хуйня Ильи\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Данжен мэйстер\Desktop\хуйня Ильи\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Данжен мэйстер\Desktop\хуйня Ильи\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Данжен мэйстер\Desktop\хуйня Ильи\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Данжен мэйстер\Desktop\хуйня Ильи\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Данжен мэйстер\Desktop\хуйня Ильи\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Данжен мэйстер\Desktop\хуйня Ильи\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Данжен мэйстер\Desktop\хуйня Ильи\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\Данжен мэйстер\Desktop\хуйня Ильи\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Данжен мэйстер\Desktop\хуйня Ильи\obj\Debug\netcoreapp3.1\WebShop.csprojAssemblyReference.cache
+C:\Users\Данжен мэйстер\Desktop\хуйня Ильи\obj\Debug\netcoreapp3.1\WebShop.AssemblyInfoInputs.cache
+C:\Users\Данжен мэйстер\Desktop\хуйня Ильи\obj\Debug\netcoreapp3.1\WebShop.AssemblyInfo.cs
+C:\Users\Данжен мэйстер\Desktop\хуйня Ильи\obj\Debug\netcoreapp3.1\WebShop.csproj.CoreCompileInputs.cache
+C:\Users\Данжен мэйстер\Desktop\хуйня Ильи\obj\Debug\netcoreapp3.1\WebShop.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Данжен мэйстер\Desktop\хуйня Ильи\obj\Debug\netcoreapp3.1\WebShop.RazorAssemblyInfo.cache
+C:\Users\Данжен мэйстер\Desktop\хуйня Ильи\obj\Debug\netcoreapp3.1\WebShop.RazorAssemblyInfo.cs
+C:\Users\Данжен мэйстер\Desktop\хуйня Ильи\obj\Debug\netcoreapp3.1\staticwebassets\WebShop.StaticWebAssets.Manifest.cache
+C:\Users\Данжен мэйстер\Desktop\хуйня Ильи\obj\Debug\netcoreapp3.1\staticwebassets\WebShop.StaticWebAssets.xml
+C:\Users\Данжен мэйстер\Desktop\хуйня Ильи\obj\Debug\netcoreapp3.1\scopedcss\bundle\WebShop.styles.css
+C:\Users\Данжен мэйстер\Desktop\хуйня Ильи\obj\Debug\netcoreapp3.1\WebShop.TagHelpers.input.cache
+C:\Users\Данжен мэйстер\Desktop\хуйня Ильи\obj\Debug\netcoreapp3.1\WebShop.TagHelpers.output.cache
+C:\Users\Данжен мэйстер\Desktop\хуйня Ильи\obj\Debug\netcoreapp3.1\WebShop.RazorCoreGenerate.cache
+C:\Users\Данжен мэйстер\Desktop\хуйня Ильи\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\Данжен мэйстер\Desktop\хуйня Ильи\obj\Debug\netcoreapp3.1\Razor\Views\Order\Checkout.cshtml.g.cs
+C:\Users\Данжен мэйстер\Desktop\хуйня Ильи\obj\Debug\netcoreapp3.1\Razor\Views\Order\Complete.cshtml.g.cs
+C:\Users\Данжен мэйстер\Desktop\хуйня Ильи\obj\Debug\netcoreapp3.1\Razor\Views\Phones\List.cshtml.g.cs
+C:\Users\Данжен мэйстер\Desktop\хуйня Ильи\obj\Debug\netcoreapp3.1\Razor\Views\Shared\AllPhones.cshtml.g.cs
+C:\Users\Данжен мэйстер\Desktop\хуйня Ильи\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\Данжен мэйстер\Desktop\хуйня Ильи\obj\Debug\netcoreapp3.1\Razor\Views\ShopCart\Index.cshtml.g.cs
+C:\Users\Данжен мэйстер\Desktop\хуйня Ильи\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\Данжен мэйстер\Desktop\хуйня Ильи\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\Данжен мэйстер\Desktop\хуйня Ильи\obj\Debug\netcoreapp3.1\WebShop.RazorTargetAssemblyInfo.cache
+C:\Users\Данжен мэйстер\Desktop\хуйня Ильи\obj\Debug\netcoreapp3.1\WebShop.RazorTargetAssemblyInfo.cs
+C:\Users\Данжен мэйстер\Desktop\хуйня Ильи\obj\Debug\netcoreapp3.1\WebShop.Views.pdb
+C:\Users\Данжен мэйстер\Desktop\хуйня Ильи\obj\Debug\netcoreapp3.1\WebShop.csproj.CopyComplete
+C:\Users\Данжен мэйстер\Desktop\хуйня Ильи\obj\Debug\netcoreapp3.1\WebShop.dll
+C:\Users\Данжен мэйстер\Desktop\хуйня Ильи\obj\Debug\netcoreapp3.1\WebShop.pdb
+C:\Users\Данжен мэйстер\Desktop\хуйня Ильи\obj\Debug\netcoreapp3.1\WebShop.genruntimeconfig.cache
+C:\Users\Данжен мэйстер\Desktop\хуйня Ильи\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\Данжен мэйстер\Desktop\хуйня Ильи\obj\Debug\netcoreapp3.1\Razor\Views\Account\Index.cshtml.g.cs
+C:\Users\volos\Desktop\xyinya\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\volos\Desktop\xyinya\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\volos\Desktop\xyinya\bin\Debug\netcoreapp3.1\dbsettings.json
+C:\Users\volos\Desktop\xyinya\bin\Debug\netcoreapp3.1\libman.json
+C:\Users\volos\Desktop\xyinya\bin\Debug\netcoreapp3.1\WebShop.exe
+C:\Users\volos\Desktop\xyinya\bin\Debug\netcoreapp3.1\WebShop.deps.json
+C:\Users\volos\Desktop\xyinya\bin\Debug\netcoreapp3.1\WebShop.runtimeconfig.json
+C:\Users\volos\Desktop\xyinya\bin\Debug\netcoreapp3.1\WebShop.runtimeconfig.dev.json
+C:\Users\volos\Desktop\xyinya\bin\Debug\netcoreapp3.1\WebShop.dll
+C:\Users\volos\Desktop\xyinya\bin\Debug\netcoreapp3.1\WebShop.pdb
+C:\Users\volos\Desktop\xyinya\bin\Debug\netcoreapp3.1\WebShop.Views.dll
+C:\Users\volos\Desktop\xyinya\bin\Debug\netcoreapp3.1\WebShop.Views.pdb
+C:\Users\volos\Desktop\xyinya\bin\Debug\netcoreapp3.1\Humanizer.dll
+C:\Users\volos\Desktop\xyinya\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\volos\Desktop\xyinya\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\volos\Desktop\xyinya\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\volos\Desktop\xyinya\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\volos\Desktop\xyinya\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\volos\Desktop\xyinya\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\volos\Desktop\xyinya\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\volos\Desktop\xyinya\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\volos\Desktop\xyinya\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\volos\Desktop\xyinya\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\volos\Desktop\xyinya\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\volos\Desktop\xyinya\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\volos\Desktop\xyinya\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\volos\Desktop\xyinya\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\volos\Desktop\xyinya\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\volos\Desktop\xyinya\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\volos\Desktop\xyinya\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Users\volos\Desktop\xyinya\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\volos\Desktop\xyinya\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Users\volos\Desktop\xyinya\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\Users\volos\Desktop\xyinya\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\volos\Desktop\xyinya\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Users\volos\Desktop\xyinya\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\volos\Desktop\xyinya\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\Users\volos\Desktop\xyinya\bin\Debug\netcoreapp3.1\System.ComponentModel.Annotations.dll
+C:\Users\volos\Desktop\xyinya\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\volos\Desktop\xyinya\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Users\volos\Desktop\xyinya\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\volos\Desktop\xyinya\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Users\volos\Desktop\xyinya\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\volos\Desktop\xyinya\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\volos\Desktop\xyinya\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\volos\Desktop\xyinya\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\volos\Desktop\xyinya\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\volos\Desktop\xyinya\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\volos\Desktop\xyinya\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\volos\Desktop\xyinya\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\volos\Desktop\xyinya\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\volos\Desktop\xyinya\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\volos\Desktop\xyinya\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\volos\Desktop\xyinya\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\volos\Desktop\xyinya\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\volos\Desktop\xyinya\obj\Debug\netcoreapp3.1\WebShop.csprojAssemblyReference.cache
+C:\Users\volos\Desktop\xyinya\obj\Debug\netcoreapp3.1\WebShop.AssemblyInfoInputs.cache
+C:\Users\volos\Desktop\xyinya\obj\Debug\netcoreapp3.1\WebShop.AssemblyInfo.cs
+C:\Users\volos\Desktop\xyinya\obj\Debug\netcoreapp3.1\WebShop.csproj.CoreCompileInputs.cache
+C:\Users\volos\Desktop\xyinya\obj\Debug\netcoreapp3.1\WebShop.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\volos\Desktop\xyinya\obj\Debug\netcoreapp3.1\WebShop.RazorAssemblyInfo.cache
+C:\Users\volos\Desktop\xyinya\obj\Debug\netcoreapp3.1\WebShop.RazorAssemblyInfo.cs
+C:\Users\volos\Desktop\xyinya\obj\Debug\netcoreapp3.1\staticwebassets\WebShop.StaticWebAssets.Manifest.cache
+C:\Users\volos\Desktop\xyinya\obj\Debug\netcoreapp3.1\staticwebassets\WebShop.StaticWebAssets.xml
+C:\Users\volos\Desktop\xyinya\obj\Debug\netcoreapp3.1\scopedcss\bundle\WebShop.styles.css
+C:\Users\volos\Desktop\xyinya\obj\Debug\netcoreapp3.1\WebShop.TagHelpers.input.cache
+C:\Users\volos\Desktop\xyinya\obj\Debug\netcoreapp3.1\WebShop.TagHelpers.output.cache
+C:\Users\volos\Desktop\xyinya\obj\Debug\netcoreapp3.1\WebShop.RazorCoreGenerate.cache
+C:\Users\volos\Desktop\xyinya\obj\Debug\netcoreapp3.1\Razor\Views\Account\Index.cshtml.g.cs
+C:\Users\volos\Desktop\xyinya\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\volos\Desktop\xyinya\obj\Debug\netcoreapp3.1\Razor\Views\Order\Checkout.cshtml.g.cs
+C:\Users\volos\Desktop\xyinya\obj\Debug\netcoreapp3.1\Razor\Views\Order\Complete.cshtml.g.cs
+C:\Users\volos\Desktop\xyinya\obj\Debug\netcoreapp3.1\Razor\Views\Phones\List.cshtml.g.cs
+C:\Users\volos\Desktop\xyinya\obj\Debug\netcoreapp3.1\Razor\Views\Shared\AllPhones.cshtml.g.cs
+C:\Users\volos\Desktop\xyinya\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\volos\Desktop\xyinya\obj\Debug\netcoreapp3.1\Razor\Views\ShopCart\Index.cshtml.g.cs
+C:\Users\volos\Desktop\xyinya\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\volos\Desktop\xyinya\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\volos\Desktop\xyinya\obj\Debug\netcoreapp3.1\WebShop.RazorTargetAssemblyInfo.cache
+C:\Users\volos\Desktop\xyinya\obj\Debug\netcoreapp3.1\WebShop.RazorTargetAssemblyInfo.cs
+C:\Users\volos\Desktop\xyinya\obj\Debug\netcoreapp3.1\WebShop.Views.pdb
+C:\Users\volos\Desktop\xyinya\obj\Debug\netcoreapp3.1\WebShop.csproj.CopyComplete
+C:\Users\volos\Desktop\xyinya\obj\Debug\netcoreapp3.1\WebShop.dll
+C:\Users\volos\Desktop\xyinya\obj\Debug\netcoreapp3.1\WebShop.pdb
+C:\Users\volos\Desktop\xyinya\obj\Debug\netcoreapp3.1\WebShop.genruntimeconfig.cache
+C:\Users\Данжен мэйстер\Desktop\хуйня Ильи\obj\Debug\netcoreapp3.1\Razor\Views\Account\registr.cshtml.g.cs
+C:\Users\Данжен мэйстер\Desktop\хуйня Ильи\obj\Debug\netcoreapp3.1\Razor\Views\Phones\CurentPhoneView.cshtml.g.cs
+C:\Users\Данжен мэйстер\Desktop\хуйня Ильи\obj\Debug\netcoreapp3.1\Razor\Views\Modal\Details.cshtml.g.cs
+C:\Users\Данжен мэйстер\Desktop\хуйня Ильи\obj\Debug\netcoreapp3.1\Razor\Views\Account\Login.cshtml.g.cs
+C:\Users\Данжен мэйстер\Desktop\хуйня Ильи\obj\Debug\netcoreapp3.1\Razor\Views\Account\Register.cshtml.g.cs
+C:\Users\Данжен мэйстер\Desktop\хуйня Ильи\obj\Debug\netcoreapp3.1\Razor\Views\Admin\Index.cshtml.g.cs
+C:\Users\Данжен мэйстер\Desktop\хуйня Ильи\obj\Debug\netcoreapp3.1\Razor\Views\Admin\AddToStore.cshtml.g.cs
+C:\Users\volos\Desktop\самая последняя версия\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\volos\Desktop\самая последняя версия\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\volos\Desktop\самая последняя версия\bin\Debug\netcoreapp3.1\dbsettings.json
+C:\Users\volos\Desktop\самая последняя версия\bin\Debug\netcoreapp3.1\libman.json
+C:\Users\volos\Desktop\самая последняя версия\bin\Debug\netcoreapp3.1\WebShop.exe
+C:\Users\volos\Desktop\самая последняя версия\bin\Debug\netcoreapp3.1\WebShop.deps.json
+C:\Users\volos\Desktop\самая последняя версия\bin\Debug\netcoreapp3.1\WebShop.runtimeconfig.json
+C:\Users\volos\Desktop\самая последняя версия\bin\Debug\netcoreapp3.1\WebShop.runtimeconfig.dev.json
+C:\Users\volos\Desktop\самая последняя версия\bin\Debug\netcoreapp3.1\WebShop.dll
+C:\Users\volos\Desktop\самая последняя версия\bin\Debug\netcoreapp3.1\WebShop.pdb
+C:\Users\volos\Desktop\самая последняя версия\bin\Debug\netcoreapp3.1\WebShop.Views.dll
+C:\Users\volos\Desktop\самая последняя версия\bin\Debug\netcoreapp3.1\WebShop.Views.pdb
+C:\Users\volos\Desktop\самая последняя версия\bin\Debug\netcoreapp3.1\Humanizer.dll
+C:\Users\volos\Desktop\самая последняя версия\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\volos\Desktop\самая последняя версия\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\volos\Desktop\самая последняя версия\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\volos\Desktop\самая последняя версия\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\volos\Desktop\самая последняя версия\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\volos\Desktop\самая последняя версия\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\volos\Desktop\самая последняя версия\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\volos\Desktop\самая последняя версия\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\volos\Desktop\самая последняя версия\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\volos\Desktop\самая последняя версия\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\volos\Desktop\самая последняя версия\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\volos\Desktop\самая последняя версия\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\volos\Desktop\самая последняя версия\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\volos\Desktop\самая последняя версия\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\volos\Desktop\самая последняя версия\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\volos\Desktop\самая последняя версия\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\volos\Desktop\самая последняя версия\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Users\volos\Desktop\самая последняя версия\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\volos\Desktop\самая последняя версия\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Users\volos\Desktop\самая последняя версия\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\Users\volos\Desktop\самая последняя версия\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\volos\Desktop\самая последняя версия\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Users\volos\Desktop\самая последняя версия\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\volos\Desktop\самая последняя версия\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\Users\volos\Desktop\самая последняя версия\bin\Debug\netcoreapp3.1\System.ComponentModel.Annotations.dll
+C:\Users\volos\Desktop\самая последняя версия\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\volos\Desktop\самая последняя версия\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Users\volos\Desktop\самая последняя версия\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\volos\Desktop\самая последняя версия\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Users\volos\Desktop\самая последняя версия\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\volos\Desktop\самая последняя версия\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\volos\Desktop\самая последняя версия\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\volos\Desktop\самая последняя версия\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\volos\Desktop\самая последняя версия\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\volos\Desktop\самая последняя версия\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\volos\Desktop\самая последняя версия\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\volos\Desktop\самая последняя версия\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\volos\Desktop\самая последняя версия\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\volos\Desktop\самая последняя версия\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\volos\Desktop\самая последняя версия\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\volos\Desktop\самая последняя версия\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\volos\Desktop\самая последняя версия\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\volos\Desktop\самая последняя версия\obj\Debug\netcoreapp3.1\WebShop.csprojAssemblyReference.cache
+C:\Users\volos\Desktop\самая последняя версия\obj\Debug\netcoreapp3.1\WebShop.AssemblyInfoInputs.cache
+C:\Users\volos\Desktop\самая последняя версия\obj\Debug\netcoreapp3.1\WebShop.AssemblyInfo.cs
+C:\Users\volos\Desktop\самая последняя версия\obj\Debug\netcoreapp3.1\WebShop.csproj.CoreCompileInputs.cache
+C:\Users\volos\Desktop\самая последняя версия\obj\Debug\netcoreapp3.1\WebShop.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\volos\Desktop\самая последняя версия\obj\Debug\netcoreapp3.1\WebShop.RazorAssemblyInfo.cache
+C:\Users\volos\Desktop\самая последняя версия\obj\Debug\netcoreapp3.1\WebShop.RazorAssemblyInfo.cs
+C:\Users\volos\Desktop\самая последняя версия\obj\Debug\netcoreapp3.1\staticwebassets\WebShop.StaticWebAssets.Manifest.cache
+C:\Users\volos\Desktop\самая последняя версия\obj\Debug\netcoreapp3.1\staticwebassets\WebShop.StaticWebAssets.xml
+C:\Users\volos\Desktop\самая последняя версия\obj\Debug\netcoreapp3.1\scopedcss\bundle\WebShop.styles.css
+C:\Users\volos\Desktop\самая последняя версия\obj\Debug\netcoreapp3.1\WebShop.TagHelpers.input.cache
+C:\Users\volos\Desktop\самая последняя версия\obj\Debug\netcoreapp3.1\WebShop.TagHelpers.output.cache
+C:\Users\volos\Desktop\самая последняя версия\obj\Debug\netcoreapp3.1\WebShop.RazorCoreGenerate.cache
+C:\Users\volos\Desktop\самая последняя версия\obj\Debug\netcoreapp3.1\Razor\Views\Account\Index.cshtml.g.cs
+C:\Users\volos\Desktop\самая последняя версия\obj\Debug\netcoreapp3.1\Razor\Views\Account\Login.cshtml.g.cs
+C:\Users\volos\Desktop\самая последняя версия\obj\Debug\netcoreapp3.1\Razor\Views\Account\Register.cshtml.g.cs
+C:\Users\volos\Desktop\самая последняя версия\obj\Debug\netcoreapp3.1\Razor\Views\Account\registr.cshtml.g.cs
+C:\Users\volos\Desktop\самая последняя версия\obj\Debug\netcoreapp3.1\Razor\Views\Admin\AddToStore.cshtml.g.cs
+C:\Users\volos\Desktop\самая последняя версия\obj\Debug\netcoreapp3.1\Razor\Views\Admin\Index.cshtml.g.cs
+C:\Users\volos\Desktop\самая последняя версия\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\volos\Desktop\самая последняя версия\obj\Debug\netcoreapp3.1\Razor\Views\Modal\Details.cshtml.g.cs
+C:\Users\volos\Desktop\самая последняя версия\obj\Debug\netcoreapp3.1\Razor\Views\Order\Checkout.cshtml.g.cs
+C:\Users\volos\Desktop\самая последняя версия\obj\Debug\netcoreapp3.1\Razor\Views\Order\Complete.cshtml.g.cs
+C:\Users\volos\Desktop\самая последняя версия\obj\Debug\netcoreapp3.1\Razor\Views\Phones\CurentPhoneView.cshtml.g.cs
+C:\Users\volos\Desktop\самая последняя версия\obj\Debug\netcoreapp3.1\Razor\Views\Phones\List.cshtml.g.cs
+C:\Users\volos\Desktop\самая последняя версия\obj\Debug\netcoreapp3.1\Razor\Views\Shared\AllPhones.cshtml.g.cs
+C:\Users\volos\Desktop\самая последняя версия\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\volos\Desktop\самая последняя версия\obj\Debug\netcoreapp3.1\Razor\Views\ShopCart\Index.cshtml.g.cs
+C:\Users\volos\Desktop\самая последняя версия\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\volos\Desktop\самая последняя версия\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\volos\Desktop\самая последняя версия\obj\Debug\netcoreapp3.1\WebShop.RazorTargetAssemblyInfo.cache
+C:\Users\volos\Desktop\самая последняя версия\obj\Debug\netcoreapp3.1\WebShop.RazorTargetAssemblyInfo.cs
+C:\Users\volos\Desktop\самая последняя версия\obj\Debug\netcoreapp3.1\WebShop.Views.pdb
+C:\Users\volos\Desktop\самая последняя версия\obj\Debug\netcoreapp3.1\WebShop.csproj.CopyComplete
+C:\Users\volos\Desktop\самая последняя версия\obj\Debug\netcoreapp3.1\WebShop.dll
+C:\Users\volos\Desktop\самая последняя версия\obj\Debug\netcoreapp3.1\WebShop.pdb
+C:\Users\volos\Desktop\самая последняя версия\obj\Debug\netcoreapp3.1\WebShop.genruntimeconfig.cache
